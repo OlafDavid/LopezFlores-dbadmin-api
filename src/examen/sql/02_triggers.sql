@@ -1,6 +1,6 @@
 
 
-USE ventas_db;
+USE base_datos_examen;
 
 
 -- Registra en auditoria_envios cualquier cambio en costo_total con OLD, NEW, usuario y fecha.

@@ -1,6 +1,6 @@
 
 
-USE ventas_db;
+USE base_datos_examen;
 
 
 INSERT INTO clientes (id_cliente, nombre, email, telefono, estado, limite_credito) VALUES

@@ -1,6 +1,7 @@
 
 
-USE ventas_db;
+CREATE DATABASE IF NOT EXISTS base_datos_examen;
+USE base_datos_examen;
 
 -- ------------------------------------------------------------------------------
 -- 1. ELIMINACIÓN DE TABLAS EN ORDEN INVERSO DE DEPENDENCIAS (DROP TABLES)

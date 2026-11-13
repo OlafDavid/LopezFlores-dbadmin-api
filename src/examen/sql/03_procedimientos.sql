@@ -1,5 +1,5 @@
 
-USE ventas_db;
+USE base_datos_examen;
 
 
 -- Reporte de facturación total, envíos entregados y tiempo promedio de entrega en horas.
