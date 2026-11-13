@@ -1,6 +1,7 @@
 import { Request, Response } from "express";
 import { productoRepository } from "../repository/ProductoRepository.js";
 
+
 // GETALL
 export const getAllProductos = async (req: Request, res: Response) => {
     const productos = await productoRepository.findAll();
